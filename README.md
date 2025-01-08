@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nbt
 - 👀 I’m interested in Deep learning and Data analytics
-- 🌱 I’m currently learning reinforcement learning from human feedback and smart contacts using block chain 
 - 📫 How to reach me email : teja.nandina@gmail.com / bhanuteja625@gmail.com
 
 <!---
